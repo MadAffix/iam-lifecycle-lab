@@ -1,0 +1,25 @@
+role,entitlement
+*,SSO:Login
+*,Email:Mailbox
+*,Slack:Member
+AP Clerk,ERP:ViewReports
+AP Clerk,ERP:CreateVendor
+AP Clerk,ERP:EnterInvoice
+Finance Manager,ERP:ViewReports
+Finance Manager,ERP:ApprovePayment
+Finance Manager,Payroll:Read
+Finance Manager,Payroll:Approve
+HR Specialist,HRIS:ViewEmployee
+HR Specialist,HRIS:EditEmployee
+HR Specialist,Payroll:Edit
+Software Engineer,GitHub:Read
+Software Engineer,GitHub:Write
+Software Engineer,AWS:ReadOnly
+Software Engineer,AWS:Developer
+Engineering Manager,GitHub:Read
+Engineering Manager,GitHub:Write
+Engineering Manager,GitHub:Admin
+Engineering Manager,AWS:ReadOnly
+IT Administrator,Directory:ManageUsers
+IT Administrator,AWS:Admin
+IT Administrator,HRIS:ViewEmployee
