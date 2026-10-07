@@ -1,0 +1,17 @@
+employee_id,name,role,manager_id,check,entitlement,severity,detail
+E017,Brian Ramirez,Software Engineer,E002,Leaver still has access,SSO:Login,Critical,Terminated on 2026-09-07
+E017,Brian Ramirez,Software Engineer,E002,Leaver still has access,Email:Mailbox,Critical,Terminated on 2026-09-07
+E017,Brian Ramirez,Software Engineer,E002,Leaver still has access,Slack:Member,Critical,Terminated on 2026-09-07
+E017,Brian Ramirez,Software Engineer,E002,Leaver still has access,GitHub:Read,Critical,Terminated on 2026-09-07
+E017,Brian Ramirez,Software Engineer,E002,Leaver still has access,GitHub:Write,Critical,Terminated on 2026-09-07
+E017,Brian Ramirez,Software Engineer,E002,Leaver still has access,AWS:ReadOnly,Critical,Terminated on 2026-09-07
+E017,Brian Ramirez,Software Engineer,E002,Leaver still has access,AWS:Developer,Critical,Terminated on 2026-09-07
+E014,Michele Williams,IT Administrator,E002,Unused access,AWS:Admin,High,Not used in 150 days
+E016,Priya Shah,Finance Manager,E001,SoD conflict,ERP:CreateVendor + ERP:ApprovePayment,High,SOD-01: Could create a fake vendor and pay it
+E016,Priya Shah,Finance Manager,E001,SoD conflict,ERP:EnterInvoice + ERP:ApprovePayment,High,SOD-02: Could enter and approve their own invoice
+E020,Lisa Jackson,HR Specialist,E001,Access not in current role,Directory:ManageUsers,High,Not in role matrix for HR Specialist
+E020,Lisa Jackson,HR Specialist,E001,SoD conflict,HRIS:EditEmployee + Directory:ManageUsers,High,SOD-04: Could create a ghost employee and give it access
+E016,Priya Shah,Finance Manager,E001,Access not in current role,ERP:CreateVendor,Medium,Not in role matrix for Finance Manager
+E016,Priya Shah,Finance Manager,E001,Access not in current role,ERP:EnterInvoice,Medium,Not in role matrix for Finance Manager
+E019,Derek Zuniga,Software Engineer,E002,Access not in current role,ERP:ViewReports,Medium,Not in role matrix for Software Engineer
+E010,Ryan Munoz,Software Engineer,E002,Unused access,AWS:Developer,Low,Not used in 200 days
