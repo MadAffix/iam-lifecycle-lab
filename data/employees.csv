@@ -1,0 +1,21 @@
+employee_id,name,department,role,manager_id,status,termination_date
+E001,Allison Hill,Finance,Finance Manager,,active,
+E002,Noah Rhodes,Engineering,Engineering Manager,,active,
+E003,Angie Henderson,Finance,AP Clerk,E001,active,
+E004,Daniel Wagner,Finance,AP Clerk,E001,active,
+E005,Cristian Santos,Finance,AP Clerk,E001,active,
+E006,Connie Lawrence,HR,HR Specialist,E001,active,
+E007,Abigail Shaffer,HR,HR Specialist,E001,active,
+E008,Gina Moore,Engineering,Software Engineer,E002,active,
+E009,Gabrielle Davis,Engineering,Software Engineer,E002,active,
+E010,Ryan Munoz,Engineering,Software Engineer,E002,active,
+E011,Monica Herrera,Engineering,Software Engineer,E002,active,
+E012,Jamie Arnold,Engineering,Software Engineer,E002,active,
+E013,Lisa Hensley,Engineering,Software Engineer,E002,active,
+E014,Michele Williams,IT,IT Administrator,E002,active,
+E015,Dylan Miller,IT,IT Administrator,E002,active,
+E016,Priya Shah,Finance,Finance Manager,E001,active,
+E017,Brian Ramirez,Engineering,Software Engineer,E002,terminated,2026-09-07
+E018,Holly Wood,Finance,AP Clerk,E001,terminated,2026-08-08
+E019,Derek Zuniga,Engineering,Software Engineer,E002,active,
+E020,Lisa Jackson,HR,HR Specialist,E001,active,
