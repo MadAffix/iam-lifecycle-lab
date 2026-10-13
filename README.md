@@ -96,4 +96,4 @@ Python · pandas · pytest · Faker · Git/GitHub · Mermaid · Identity lifecyc
 
 ## Author
 
-Avinash Katigiri · [LinkedIn] (https://www.linkedin.com/in/avinashkatigiri) · [GitHub](https://github.com/MadAffix)
+   Avinash Katigiri · [LinkedIn](https://www.linkedin.com/in/avinashkatigiri) · [GitHub](https://github.com/MadAffix)
